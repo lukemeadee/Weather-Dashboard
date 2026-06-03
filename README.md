@@ -17,7 +17,7 @@ A simple Python weather dashboard that displays weather data using the OpenMeteo
 
 ## How to Run
 1. Install dependencies:
-    pip install: requests pandas
+    pip install requests pandas
 2. Run the script:
     python Weatherman.py
 
