@@ -31,6 +31,7 @@ current_temp = data["current_weather"]["temperature"]
 print("=" * 90)
 print("WEATHER DASHBOARD".center(90))
 print("=" * 90)
+print(f"Time updated: {weather}")
 print(f"Location: ({params['latitude']}, {params['longitude']})")
 print(f"Current temperature: {current_temp}°C")
 
